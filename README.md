@@ -1,3 +1,1 @@
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-# Do change the username (YOUR_USERNAME) to yours.
+![Snake animation](https://github.com/ryanch13579/ryanch13579/blob/output/github-contribution-grid-snake.svg)
